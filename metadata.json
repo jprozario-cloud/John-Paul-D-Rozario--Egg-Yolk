@@ -1,0 +1,6 @@
+{
+  "name": "Yolk",
+  "description": "A friendly, energetic talking egg companion that alerts you about upcoming tasks 5 minutes before they happen with cheerful voice lines and animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
